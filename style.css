@@ -1,15 +1,15 @@
 .pad-l {
     padding-top: 30px;
-    padding-right: 80px;
+    padding-right: 50px;
     padding-bottom: 50px;
-    padding-left: 80px;
+    padding-left: 50px;
 }
 
 .pad-h {
     padding-top: 30px;
-    padding-right: 50px;
+    padding-right: 80px;
     padding-bottom: 50px;
-    padding-left: 50px;
+    padding-left: 80px;
 }
 
 h1 {
